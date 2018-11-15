@@ -1,6 +1,8 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 
+// Git 'er done
+
 import './styles.css'
 
 function App() {
