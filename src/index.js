@@ -2,7 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 
 // Git 'er done???
-// Huh?
+// You can make a better comment than that... code suggestion.
 
 import './styles.css'
 
