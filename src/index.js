@@ -2,6 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 
 // Git 'er done???
+// You can make a better comment than that... code suggestion.
 
 // where are my changes
 
